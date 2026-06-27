@@ -1,0 +1,20 @@
+{
+  "name": "VitaMemoria",
+  "short_name": "VitaMemoria",
+  "description": "週末の体験を、成長に変える AIライフスタイルアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FFFE",
+  "theme_color": "#12C99E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["lifestyle", "productivity"],
+  "lang": "ja"
+}
